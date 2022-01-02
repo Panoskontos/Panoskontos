@@ -5,7 +5,7 @@
 
 
 
-<div align="left">
+<div align="center">
   
 **My Favourite Languages and Tools:**  
 
@@ -17,8 +17,10 @@
 
  </div>
   
-<div align="right">
+<div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panoskontos&layout=compact&hide=Jupyter+Notebook&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panoskontos&show_icons=true&theme=default)  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panoskontos&layout=compact&hide=Jupyter+Notebook&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
+ 
 
 </div>
