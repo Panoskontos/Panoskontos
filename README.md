@@ -4,7 +4,7 @@
 - 📫 Reach me at **panos96el@gmail.com**
 
 <br />
-<br />
+
 
 
 <div align="left">
@@ -21,7 +21,7 @@
  
  
 <br />
-<br />
+
   
  
 #### 📊 GitHub Stats  
