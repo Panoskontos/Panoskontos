@@ -1,11 +1,10 @@
 <div>
-  <div align="left" width="200px">
     
 - 👨‍💻 Check out my portfolio at https://panagiotiskontos.netlify.app/
 
 - 📫 Reach me at **panos96el@gmail.com**
-  </div>
-  <div align="right" width="200px">
+  
+  <div align="center" width="200px">
 
   ![explode](https://user-images.githubusercontent.com/65974766/147889450-7314d2c1-af22-446f-b2c9-6c25953b5ea1.gif)
 
