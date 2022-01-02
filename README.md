@@ -27,8 +27,7 @@
 #### 📊 GitHub Stats  
 <div align="left">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panoskontos&show_icons=true&theme=default)  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panoskontos&layout=compact&hide=Jupyter+Notebook&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
- 
+  | <a href="https://github.com/Panoskontos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Panoskontos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Panos's github stats" /></a> | <a href="https://github.com/Panoskontos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panoskontos&layout=compact&theme=buefy&hide_border=true&hide=Jupyter+Notebook&langs_count=6" /></a> |
+| ------------- | ------------- |
 
 </div>
