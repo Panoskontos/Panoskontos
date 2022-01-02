@@ -4,7 +4,7 @@
 - 📫 Reach me at **panos96el@gmail.com**
 
 
-![sunset](https://user-images.githubusercontent.com/65974766/147889353-1c3039dd-864b-4eb3-ae25-8082c2eaea13.gif)
+![explode](https://user-images.githubusercontent.com/65974766/147889450-7314d2c1-af22-446f-b2c9-6c25953b5ea1.gif)
 
 
 <div align="left">
