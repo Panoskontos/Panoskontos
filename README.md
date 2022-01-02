@@ -1,5 +1,5 @@
 
-- 👨‍💻 You can also check out my portfolio at https://panagiotiskontos.netlify.app/
+- 👨‍💻 Check out my portfolio at https://panagiotiskontos.netlify.app/
 
 - 📫 Reach me at **panos96el@gmail.com**
 
