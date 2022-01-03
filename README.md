@@ -6,8 +6,8 @@
   
  <div align="center" width="200px">
      
-![smoke](https://user-images.githubusercontent.com/65974766/147974466-02792df9-0445-44ef-b331-c7351371b848.gif)
-      
+![glitch](https://user-images.githubusercontent.com/65974766/147975359-f381d2d0-d51a-4384-8e42-e7d24d1a4d56.gif)
+  
   </div>
 </div>
 
