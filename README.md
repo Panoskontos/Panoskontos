@@ -5,10 +5,8 @@
 - 📫 Reach me at **panos96el@gmail.com**
   
  <div align="center" width="200px">
-
-      
-  ![explode](https://user-images.githubusercontent.com/65974766/147889450-7314d2c1-af22-446f-b2c9-6c25953b5ea1.gif)
-
+     
+![smoke](https://user-images.githubusercontent.com/65974766/147974466-02792df9-0445-44ef-b331-c7351371b848.gif)
       
   </div>
 </div>
