@@ -5,9 +5,9 @@
 - 📫 Reach me at **panos96el@gmail.com**
   
  <div align="center" width="200px">
-     
-![glitch](https://user-images.githubusercontent.com/65974766/147975359-f381d2d0-d51a-4384-8e42-e7d24d1a4d56.gif)
   
+![nebula](https://user-images.githubusercontent.com/65974766/147976488-78766309-0bc9-4fa3-9661-7c2c08e68b8e.gif)
+
   </div>
 </div>
 
