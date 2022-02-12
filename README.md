@@ -52,6 +52,8 @@
 <br><br><br>
 
 - 🧗🏻 Hackerrank Ranking in Greece (top 50)
+
+- Leaderboard: https://www.hackerrank.com/leaderboard?filter=Greece&filter_on=country&page=1&track=algorithms&type=practice
     
  ![top50](https://user-images.githubusercontent.com/65974766/153719914-79dc75f2-c357-4a76-a0dd-9d8725af3807.png)
 
