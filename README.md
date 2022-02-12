@@ -49,8 +49,9 @@
 
 </div>
 
+<br><br><br>
 
--🧗🏻 My Hackerrank Ranking in Greece (top 50)
+- 🧗🏻 Hackerrank Ranking in Greece (top 50)
     
  ![top50](https://user-images.githubusercontent.com/65974766/153719914-79dc75f2-c357-4a76-a0dd-9d8725af3807.png)
 
