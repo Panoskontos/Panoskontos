@@ -51,7 +51,7 @@
 
 <br><br><br>
 
-- 🧗🏻 Hackerrank Ranking in Greece (top 50)
+- 🧗🏻 Hackerrank Ranking in Greece (top 50 out of 9300+)
 
 - Leaderboard: https://www.hackerrank.com/leaderboard?filter=Greece&filter_on=country&page=1&track=algorithms&type=practice
     
