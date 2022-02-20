@@ -2,7 +2,7 @@
     
 - 👨‍💻 Check out my new portfolio at https://panoskontos.github.io/Panagiotis_Kontos.github.io/
     
-- 👨 you can also check my older portfolio at https://panagiotiskontos.netlify.app/
+- 👨 You can also check my older portfolio at https://panagiotiskontos.netlify.app/
 
 - 📫 Reach me at **panos96el@gmail.com** 
   
