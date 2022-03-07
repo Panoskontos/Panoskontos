@@ -4,7 +4,7 @@
     
 - 👨 You can check my older portfolio at https://panagiotiskontos.netlify.app/
 
-- 📫 Reach me at **panos96el@gmail.com** 
+- 📫  Reach me at **panos96el@gmail.com** 
   
 
  <div align="center" width="200px">
