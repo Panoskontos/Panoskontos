@@ -1,6 +1,6 @@
 <div>
     
-- 👨‍💻 Check out my new portfolio at https://panoskontos.github.io/Panagiotis_Kontos.github.io/
+- 👨‍💻  Check out my new portfolio at https://panoskontos.github.io/Panagiotis_Kontos.github.io/
     
 - 👨 You can check my older portfolio at https://panagiotiskontos.netlify.app/
 
