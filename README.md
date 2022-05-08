@@ -57,4 +57,10 @@
     
  ![top50](https://user-images.githubusercontent.com/65974766/153719914-79dc75f2-c357-4a76-a0dd-9d8725af3807.png)
 
-    
+<br>
+
+- 💎 Ruby Ranking in Greece (top 10%, top 20)
+
+![Στιγμιότυπο οθόνης (32)](https://user-images.githubusercontent.com/65974766/167315238-0f72067e-29fb-4a15-937c-909ee124f37d.png)
+
+
