@@ -61,6 +61,8 @@
 
 - 💎 Ruby Ranking in Greece (top 10%, top 20)
 
+- Leaderboard: https://www.hackerrank.com/leaderboard?filter=Greece&filter_on=country&page=11&track=ruby&type=practice
+
 ![Στιγμιότυπο οθόνης (32)](https://user-images.githubusercontent.com/65974766/167315238-0f72067e-29fb-4a15-937c-909ee124f37d.png)
 
 
