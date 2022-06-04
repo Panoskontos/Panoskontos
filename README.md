@@ -5,7 +5,7 @@
     
 <!--     https://panoskontos.github.io/Panagiotis_Kontos.github.io/ -->
     
-<!-- - 👨 You can check my older portfolio at https://panagiotiskontos.netlify.app/ -->
+<!--  👨 You can check my older portfolio at https://panagiotiskontos.netlify.app/ -->
 
 - 📫 Reach me at **panos96el@gmail.com** 
   
