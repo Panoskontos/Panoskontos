@@ -1,6 +1,6 @@
 <div>
     
--  👨‍💻 Check my new Portfolio at https://www.portfolio-panos.com/index.html ✨
+-  👨‍💻 Check my new Portfolio at https://www.portfolio-panos.com ✨
     
     
 <!--     https://panoskontos.github.io/Panagiotis_Kontos.github.io/ -->
