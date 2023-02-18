@@ -1,6 +1,6 @@
 <div>
     
--  👨‍💻  Check my new Portfolio https://portfolio-main-panoskontos.vercel.app/  & https://panoskontos.github.io/Panagiotis_Kontos.github.io/  ✨
+-  👨‍💻  Check my new Portfolio https://portfolio-main-panoskontos.vercel.app/  &  https://panoskontos.github.io/Panagiotis_Kontos.github.io/  ✨
    
     
 <!--  https://panoskontos.github.io/Panagiotis_Kontos.github.io/ -->
